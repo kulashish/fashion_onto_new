@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
+    <uri id="Imports Wizard Entry" name="http://www.semanticweb.org/jabong/ontologies/fashion/v1" uri="fashion_onto_rdfxml_current.owl"/>
+    <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="http://dbpedia.org/ontology/" uri="dbpedia_2014.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="http://www.co-ode.org/ontologies/pizza/pizza.owl" uri="pizza.owl.xml"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="http://www.semanticweb.org/ashish/ontologies/2016/1/untitled-ontology-2" uri="pizza.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="http://www.semanticweb.org/jabong/instances/fashion/v1" uri="jabong_fashion_rdfxml_previous.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="duplicate:http://www.semanticweb.org/jabong/ontologies/fashion/v1" uri="fashion_onto_rdfxml_current.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="duplicate:http://www.semanticweb.org/jabong/ontologies/fashion/v1" uri="fashion_onto_rdfxml_previous.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1471931376885" name="duplicate:http://www.semanticweb.org/jabong/ontologies/fashion/v1" uri="fashion_ontology.owl"/>
+    </group>
+</catalog>

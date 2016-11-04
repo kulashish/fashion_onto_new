@@ -1,0 +1,55 @@
+<rdf:RDF
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dbc="http://dbpedia.org/resource/Category:"
+    xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+    xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Wearable_devices">
+    <skos:broader>
+      <skos:Concept rdf:about="http://dbpedia.org/resource/Category:Fashion_accessories">
+        <rdfs:label xml:lang="en">Fashion accessories</rdfs:label>
+      </skos:Concept>
+    </skos:broader>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Shawls_and_wraps">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Headgear">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Bags_(fashion)">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Smart_bands">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Neckwear">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Buttons">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Eyewear">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Fashion_accessory_brands">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Jewellery">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Watches">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Umbrellas">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Formal_insignia">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Footwear_accessories">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+  <rdf:Description rdf:about="http://dbpedia.org/resource/Category:Gloves">
+    <skos:broader rdf:resource="http://dbpedia.org/resource/Category:Fashion_accessories"/>
+  </rdf:Description>
+</rdf:RDF>
